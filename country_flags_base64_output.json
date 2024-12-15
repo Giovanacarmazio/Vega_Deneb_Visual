@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "name": "Porto Velho",
+        "isoAlpha2": "RO",
+        "isoAlpha3": "RO",
+        "isoNumeric": 4,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 2,
+        "name": "Rio Branco",
+        "isoAlpha2": "AC",
+        "isoAlpha3": "AC",
+        "isoNumeric": 8,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 3,
+        "name": "Manaus",
+        "isoAlpha2": "AM",
+        "isoAlpha3": "AM",
+        "isoNumeric": 12,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 4,
+        "name": "Boa Vista",
+        "isoAlpha2": "RR",
+        "isoAlpha3": "RR",
+        "isoNumeric": 16,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 5,
+        "name": "Bel\u00e9m",
+        "isoAlpha2": "PA",
+        "isoAlpha3": "PA",
+        "isoNumeric": 20,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 6,
+        "name": "Macap\u00e1",
+        "isoAlpha2": "AP",
+        "isoAlpha3": "AP",
+        "isoNumeric": 24,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 7,
+        "name": "Palmas",
+        "isoAlpha2": "TO",
+        "isoAlpha3": "TO",
+        "isoNumeric": 28,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 8,
+        "name": "S\u00e3o Lu\u00eds",
+        "isoAlpha2": "MA",
+        "isoAlpha3": "MA",
+        "isoNumeric": 32,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 9,
+        "name": "Teresina",
+        "isoAlpha2": "PI",
+        "isoAlpha3": "PI",
+        "isoNumeric": 36,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 10,
+        "name": "Fortaleza",
+        "isoAlpha2": "CE",
+        "isoAlpha3": "CE",
+        "isoNumeric": 40,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 11,
+        "name": "Natal",
+        "isoAlpha2": "RN",
+        "isoAlpha3": "RN",
+        "isoNumeric": 44,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 12,
+        "name": "Jo\u00e3o Pessoa",
+        "isoAlpha2": "PB",
+        "isoAlpha3": "PB",
+        "isoNumeric": 48,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 13,
+        "name": "Recife",
+        "isoAlpha2": "PE",
+        "isoAlpha3": "PE",
+        "isoNumeric": 52,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 14,
+        "name": "Macei\u00f3",
+        "isoAlpha2": "AL",
+        "isoAlpha3": "AL",
+        "isoNumeric": 56,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 15,
+        "name": "Aracaju",
+        "isoAlpha2": "SE",
+        "isoAlpha3": "SE",
+        "isoNumeric": 60,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 16,
+        "name": "Salvador",
+        "isoAlpha2": "BA",
+        "isoAlpha3": "BA",
+        "isoNumeric": 64,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 17,
+        "name": "Belo Horizonte",
+        "isoAlpha2": "MG",
+        "isoAlpha3": "MG",
+        "isoNumeric": 68,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 18,
+        "name": "Vit\u00f3ria",
+        "isoAlpha2": "ES",
+        "isoAlpha3": "ES",
+        "isoNumeric": 72,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 19,
+        "name": "Rio de Janeiro",
+        "isoAlpha2": "RJ",
+        "isoAlpha3": "RJ",
+        "isoNumeric": 76,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 20,
+        "name": "S\u00e3o Paulo",
+        "isoAlpha2": "SP",
+        "isoAlpha3": "SP",
+        "isoNumeric": 80,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 21,
+        "name": "Curitiba",
+        "isoAlpha2": "PR",
+        "isoAlpha3": "PR",
+        "isoNumeric": 84,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 22,
+        "name": "Florian\u00f3polis",
+        "isoAlpha2": "SC",
+        "isoAlpha3": "SC",
+        "isoNumeric": 88,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 23,
+        "name": "Porto Alegre",
+        "isoAlpha2": "RS",
+        "isoAlpha3": "RS",
+        "isoNumeric": 92,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 24,
+        "name": "Campo Grande",
+        "isoAlpha2": "MS",
+        "isoAlpha3": "MS",
+        "isoNumeric": 96,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 25,
+        "name": "Cuiab\u00e1",
+        "isoAlpha2": "MT",
+        "isoAlpha3": "MT",
+        "isoNumeric": 100,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 26,
+        "name": "Goi\u00e2nia",
+        "isoAlpha2": "GO",
+        "isoAlpha3": "GO",
+        "isoNumeric": 104,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": 27,
+        "name": "Bras\u00edlia",
+        "isoAlpha2": "DF",
+        "isoAlpha3": "DF",
+        "isoNumeric": 108,
+        "currency": {
+            "code": "BRL",
+            "name": "Reais",
+            "symbol": "R$"
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    },
+    {
+        "id": null,
+        "name": "",
+        "isoAlpha2": "",
+        "isoAlpha3": "",
+        "isoNumeric": null,
+        "currency": {
+            "code": "",
+            "name": "",
+            "symbol": false
+        },
+        "flag": ""
+    }
+]
